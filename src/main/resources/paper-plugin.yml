@@ -1,0 +1,4 @@
+name: aloneSmpPublic
+version: '${project.version}'
+main: me.rishipatwardhan.alonesmppublic.AloneSmpPublic
+api-version: '1.20'
